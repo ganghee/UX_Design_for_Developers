@@ -178,9 +178,9 @@ it's a great idea to let users know how long they're going to be waiting for.
 \
 []()
 #### ✅ Make Links Make Sense Out of Context
-Screen-reader software often has a mode where the user can "skim" the page for clickable links, and these links need to make sense out of context. In this case, the first link would be read aloud as "click here", while the second would be dictated as "download our brochure"—much more usable.\
-To download our brochure: [click here](http://click%20here/).\
-You can [download our brochure](http://click%20here/) here.
+Screen-reader software often has a mode where the user can "skim" the page for clickable links, and these links need to make sense out of context. In this case, the first link would be read aloud as "click here", while the second would be dictated as "download our brochure"—much more usable.
+- To download our brochure: [click here](http://click%20here/). (Bad)
+- You can [download our brochure](http://click%20here/) here. (Good)
 
 \
 []()
@@ -248,42 +248,52 @@ Jakob Nielsen utterly nails it with this one. Your users spend the vast majority
 
 #### 🐤 [Jakob’s Law](https://lawsofux.com/jakobs-law/)
 Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.
+
 \
 []()
 #### 🐤 [Fitts’s Law](https://lawsofux.com/fittss-law/)
 The time to acquire a target is a function of the distance to and size of the target.
+
 \
 []()
 #### 🐤 [Hick’s Law](https://lawsofux.com/hicks-law/)
 The time it takes to make a decision increases with the number and complexity of choices.
+
 \
 []()
 #### 🐤 [Miller’s Law](https://lawsofux.com/millers-law/)
 The average person can only keep 7 (plus or minus 2) items in their working memory.
+
 \
 []()
 #### 🐤 [Postel’s Law](https://lawsofux.com/postels-law/)
 Be liberal in what you accept, and conservative in what you send.
+
 \
 []()
 #### 🐤 [Peak-End Rule](https://lawsofux.com/peak-end-rule/)
 People judge an experience largely based on how they felt at its peak and at its end, rather than the total sum or average of every moment of the experience.
+
 \
 []()
 #### 🐤 [Aesthetic-Usability Effect](https://lawsofux.com/aesthetic-usability-effect/)
 Users often perceive aesthetically pleasing design as design that’s more usable.
+
 \
 []()
 #### 🐤 [Von Restorff Effect](https://lawsofux.com/von-restorff-effect/)
 The Von Restorff effect, also known as The Isolation Effect, predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.
+
 \
 []()
 #### 🐤 [Tesler’s Law](https://lawsofux.com/teslers-law/)
 Tesler’s Law, also known as The Law of Conservation of Complexity, states that for any system there is a certain amount of complexity which cannot be reduced.
+
 \
 []()
 #### 🐤 [Doherty Threshold](https://lawsofux.com/doherty-threshold/)
 Productivity soars when a computer and its users interact at a pace (<400ms) that ensures that neither has to wait on the other.
+
 \
 []()
 #### 🐤 [Pareto Principle](https://lawsofux.com/pareto-principle/)
