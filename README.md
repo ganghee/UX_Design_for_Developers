@@ -139,6 +139,7 @@ Although the technical implementation details can be challenging, it's worth put
 []()
 #### ✅ Make "Blank Slates" More Than Just Empty Views
 A blank slate is usually some helpful text, hints and maybe a friendly graphic or icon. Now, because these views can appear on a per-feature basis, it's easy to be very task-oriented in the advice you give. If the user views the to-do list, you can give advice on making the first to-do item.
+
 \
 []()
 #### ✅ Make "Getting Started" Tips Easily Dismissable
@@ -153,6 +154,7 @@ Providing a "show password" toggle is not only great for usability, but also imp
 []()
 #### ✅ Always Allow the User to Paste into Password Fields
 It's a good general rule across the board to not interfere with standard system behaviors (copy, paste, find, zoom, right-click, and so on), as they are all basic interactions that the user will have grown accustomed to over years of working with various devices. To deliberately disable these behaviors on your product is nonsensical, yet it still happens. Designers think that they can improve security, reduce plagiarism, or other factors that aren't user-centric.
+
 \
 []()
 #### ✅ Validate Data Entry as Soon as Possible
@@ -187,6 +189,7 @@ People suffering from partial sight, color blindness, or visual deficiencies, ma
 []()
 #### ✅ Let Users Turn off Specific Notifications
 It's worth thinking through carefully how users can customize or disable certain types of notifications (or all of them). The events that each user considers important, or notification-worthy, will vary and may even change over time. A user probably doesn't want an audio notification every time someone likes their Instagram selfie. Perhaps they do want a notification of a direct message because they get them less frequently.
+
 \
 []()
 #### ✅ A User's Journey Should Have a Beginning, Middle, and End
