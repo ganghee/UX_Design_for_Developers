@@ -1,7 +1,7 @@
 # What developers should learn UX
   [🌼 The Ultimate UX Design Glossary](#-the-ultimate-ux-design-glossary)\
-  [🌼 What are UX Design Principles?](#-what-are-ux-design-principle)\
-  [🌼 What are the laws of UX?](#-what-are-the-laws-of-ux)
+  [🌼 What Are UX Design Principles?](#-what-are-ux-design-principle)\
+  [🌼 What Are the Laws of UX?](#-what-are-the-laws-of-ux)
 
 
 ## 🌼 The Ultimate UX Design Glossary
@@ -90,7 +90,7 @@
 \
 \
 []()
-## 🌼 What are UX Design Principle?
+## 🌼 What Are UX Design Principles?
 
 #### ✅ Anyone Can Be a User Experience (UX) Professional
 This guide is for anyone who designs software products as part of their work. You may be a full-time designer, a UX professional or someone who has to make decisions about UX in your organization's products. Regardless of your role, the principles in this guide will improve your products, help you to serve your users' needs better, and make your customers more likely to return to you.
@@ -244,7 +244,7 @@ Jakob Nielsen utterly nails it with this one. Your users spend the vast majority
 \
 \
 []()
-## 🌼 What are the laws of UX?
+## 🌼 What Are the Laws of UX?
 
 #### 🐤 [Jakob’s Law](https://lawsofux.com/jakobs-law/)
 Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.
