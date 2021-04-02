@@ -90,77 +90,77 @@
 []()
 ## 🌼 What are UX Design Principle?
 
-##### ✅ Anyone Can Be a User Experience (UX) Professional
+#### ✅ Anyone Can Be a User Experience (UX) Professional
 This guide is for anyone who designs software products as part of their work. You may be a full-time designer, a UX professional or someone who has to make decisions about UX in your organization's products. Regardless of your role, the principles in this guide will improve your products, help you to serve your users' needs better, and make your customers more likely to return to you.
 
 \
 []()
-##### ✅ Don't Use More Than Two Typefaces
+#### ✅ Don't Use More Than Two Typefaces
 Only amateurs call typefaces "fonts", you know? "Proper" design professionals call them "typefaces" Fonts are the files on the device that the software uses to render the typeface. Fonts are the paint on the palette, while the typeface is the masterpiece on the canvas.
 Regardless, too often designers add too many typefaces to their products. You should aim to use two typefaces maximum: one for headings and titles, and another for body copy that is intended to be read.
 
 \
 []()
-##### ✅ Users Already Have Fonts on Their Computers, So Use Them
+#### ✅ Users Already Have Fonts on Their Computers, So Use Them
 Yes, your corporate brand font is lovely. It's so playful and charming but it takes an extra three seconds to load the page, as the font needs to be downloaded from the server and rendered—and nothing appears until it loads—driving your users crazy.
 
 \
 []()
-##### ✅ USE TYPE SIZE TO DEPICT INFORMATION HIERARCHY
+#### ✅ USE TYPE SIZE TO DEPICT INFORMATION HIERARCHY
 This is a simple, but effective, method for organizing your views and making them instantly understandable for a wide range of users. Let's look at an example of how not to do this in an imagined "Calendar" app user interface. Simply by altering the type size by a noticeable factor, we can show the user the most relevant information first.
 <img src="https://static.packt-cdn.com/products/9781788837361/graphics/B09472_04_01.jpg" width="50%" height="50%"><img src="https://static.packt-cdn.com/products/9781788837361/graphics/B09472_04_02.jpg" width="50%" height="50%">
 
 \
 []()
-##### ✅ Use Numeric Entry Fields for Precise Integers
+#### ✅ Use Numeric Entry Fields for Precise Integers
 If you're trying to get an integer (a whole number) from a user—for example the number of widgets they want to order or the number of days an event runs for—it makes no sense to offer them a free text input field.
 
 \
 []()
-##### ✅ Allow Users to Undo Destructive Actions
+#### ✅ Allow Users to Undo Destructive Actions
 The best apps allow users to back out of such actions, either with undo controls or by giving users the ability to edit actions before they're final. Google's Gmail has had an optional "undo send" feature for quite some time. This stores your sent message in a "buffer" for 20 seconds, giving you that short grace period to cancel sending. If you just ignore it, you know the message will be sent shortly. This particular feature has saved me many times.
 
 \
 []()
-##### ✅ Think About What's Just off the Screen
+#### ✅ Think About What's Just off the Screen
 The screen is the user's viewport into your app and it forms a mental model of how they see your interface. By showing the edges of items, it's possible to show the user that there's more to be seen just off the screen.
 
 \
 []()
-##### ✅ Use "Infinite Scroll" for Feed–Style Content Only
+#### ✅ Use "Infinite Scroll" for Feed–Style Content Only
 Infinite scroll should be limited to only a few types of content. If applied to finite lists (messages, emails, to-do items, and so on) then the user has no way of determining a beginning, middle, and end to the content. When used with this kind of content, infinite scroll is confusing and slower to use, so save it for feeds.
 
 \
 []()
-##### ✅ If You Must Use Infinite Scroll, Store the User's Position and Return to It
+#### ✅ If You Must Use Infinite Scroll, Store the User's Position and Return to It
 Although the technical implementation details can be challenging, it's worth putting in the effort to avoid disorentating users. Viewing a product then navigating back should always return the user to the point where they left off.
 
 \
 []()
-##### ✅ Make "Blank Slates" More Than Just Empty Views
+#### ✅ Make "Blank Slates" More Than Just Empty Views
 A blank slate is usually some helpful text, hints and maybe a friendly graphic or icon. Now, because these views can appear on a per-feature basis, it's easy to be very task-oriented in the advice you give. If the user views the to-do list, you can give advice on making the first to-do item.
 \
 []()
-##### ✅ Make "Getting Started" Tips Easily Dismissable
+#### ✅ Make "Getting Started" Tips Easily Dismissable
 Too often apps force users to view their "getting started" guide or "tips for beginners" They are often good for new users, but if you're coming back to an app you've used before then they're incredibly frustrating.
 
 \
 []()
-##### ✅ Obfuscate Passwords in Fields, but Provide a "Show Password" Toggle
+#### ✅ Obfuscate Passwords in Fields, but Provide a "Show Password" Toggle
 Providing a "show password" toggle is not only great for usability, but also improves security: users can enter longer, more complex pass-phrases and be confident that they can retype them correctly. Default to obfuscating the password, but provide a checkbox or toggle that allows the user to see their password.
 
 \
 []()
-##### ✅ Always Allow the User to Paste into Password Fields
+#### ✅ Always Allow the User to Paste into Password Fields
 It's a good general rule across the board to not interfere with standard system behaviors (copy, paste, find, zoom, right-click, and so on), as they are all basic interactions that the user will have grown accustomed to over years of working with various devices. To deliberately disable these behaviors on your product is nonsensical, yet it still happens. Designers think that they can improve security, reduce plagiarism, or other factors that aren't user-centric.
 \
 []()
-##### ✅ Validate Data Entry as Soon as Possible
+#### ✅ Validate Data Entry as Soon as Possible
 Validation on a form means showing the user visual feedback that there's a problem with some of the information they've painstakingly entered. Validate data entered into a field as soon as possible, when the user moves to the next field, so you know they're done typing in the current one.
 
 \
 []()
-##### ✅ Make it Painless for the User to Add Images
+#### ✅ Make it Painless for the User to Add Images
 Consider whether you would like the user to upload multiple images. If so, allow them to do this in one go, rather than lots of separate selections.
 Give the user "crop" and "rotate" controls when the image is previewed. It's super useful to be able to trim and rotate an image with a couple of clicks, rather than using another tool to do so.
 Try to accept a wide variety of image formats: JPEG, PNG and GIF at the very least.
@@ -168,56 +168,56 @@ Tell the user that the image is uploading and show them the progress (uploads ca
 
 \
 []()
-##### ✅ Use a "Linear" Progress Bar if a Task will Take a Determinate Amount of Time
+#### ✅ Use a "Linear" Progress Bar if a Task will Take a Determinate Amount of Time
 it's a great idea to let users know how long they're going to be waiting for.
 
 \
 []()
-##### ✅ Make Links Make Sense Out of Context
+#### ✅ Make Links Make Sense Out of Context
 Screen-reader software often has a mode where the user can "skim" the page for clickable links, and these links need to make sense out of context. In this case, the first link would be read aloud as "click here", while the second would be dictated as "download our brochure"—much more usable.
 To download our brochure: [click here](http://click%20here/).
 You can [download our brochure](http://click%20here/) here.
 
 \
 []()
-##### ✅ Don't Only Use Color to Convey Information
+#### ✅ Don't Only Use Color to Convey Information
 People suffering from partial sight, color blindness, or visual deficiencies, may have problems differentiating certain colors. If all the information is color-based, then they won't be able to access it. Adding an icon or image next to the content may be a good solution in some cases. It will boost the use of color to convey information, and it's fairly easy to implement.
 
 \
 []()
-##### ✅ Let Users Turn off Specific Notifications
+#### ✅ Let Users Turn off Specific Notifications
 It's worth thinking through carefully how users can customize or disable certain types of notifications (or all of them). The events that each user considers important, or notification-worthy, will vary and may even change over time. A user probably doesn't want an audio notification every time someone likes their Instagram selfie. Perhaps they do want a notification of a direct message because they get them less frequently.
 \
 []()
-##### ✅ A User's Journey Should Have a Beginning, Middle, and End
+#### ✅ A User's Journey Should Have a Beginning, Middle, and End
 The classic anti-pattern here is users thinking, "Have I saved these settings or not?" On macOS, changing the settings and then closing the window saves the settings, while on (older) Windows applications, the user must press "save". In some more obscure systems, the user must click apply and then save.
 The user is never sure whether this journey (to change a setting) has ended or not, so make it clear to them.
 
 \
 []()
-##### ✅ Categorize Search Results into Sections
+#### ✅ Categorize Search Results into Sections
 Google is so good at ranking search results that users have come to expect this level of quality from all their search experiences. Unfortunately, the "out-of-the-box" site search on many modern web platforms is a little lacking. You will need to work hard on your product, and consider the whole search experience deeply, to deliver the kind of quality your users expect.
 
 \
 []()
-##### ✅ Show, Don't Tell
+#### ✅ Show, Don't Tell
 Show the viewer (or user) the situation and let them work out how they feel. It's also a great mantra to repeat to yourself if you're working on the experience of onboarding, feature guides, or other tuition—showing users how to use your product is always better than telling them.
 Users don't read text. Really, they don't. Time and again, in user test after user test, I've witnessed this with my own eyes—users simply don't read onscreen text. You have to show them how to use the product, not write a description using words.
 
 \
 []()
-##### ✅ Be Consistent with Terminology
+#### ✅ Be Consistent with Terminology
 The words (or copy) that you write in your product have a dual purpose. The first is the most obvious: they label items and views and tell the user which elements are which.
 The second is less obvious, but more important: the words you use become a very precise and descriptive language for your product. Understanding and parsing this language is essential to a user forming a mental model of how your product works.
 
 \
 []()
-##### ✅ Write Like a Human Being
+#### ✅ Write Like a Human Being
 Too often, terminology in software is written from a systems-oriented or organization-centric point of view. We often see menu options like "edit customer" or "create new customer", but stop and think about this for a second—customers are people and we don't create them. The first option doesn't actually edit a customer and the second doesn't create a new customer. For the developer, customers are just database records, so of course it makes sense to edit them and create new ones, but for the user, these options should be better named: "edit a customer's details" and "add a new customer".
 
 \
 []()
-##### ✅ Pick Good Defaults
+#### ✅ Pick Good Defaults
 The power of default settings is often overlooked, but they have huge potential to affect the UX of your product.
 When I get into my car, the default sound output of my phone switches from handset to in-car speaker. I can change it, but the default is sensible.
 Sign in to an analytics product and the selected date range is "this week", with a comparison date range of "last week." Imagine if the default was "today" and showed no data—useless, right?
@@ -225,12 +225,12 @@ How many users you think (or know through research) want this default setting.
 
 \
 []()
-##### ✅ Don't Confound Users' Expectations
+#### ✅ Don't Confound Users' Expectations
 Your users have spent many years using products just like yours, so should your product work just like those other products or radically differently?
 The answer is—"just like those other products".
 
 \
 []()
-##### ✅ Build Upon Established Metaphors – It's Not Stealing
+#### ✅ Build Upon Established Metaphors – It's Not Stealing
 In UX, this is the polar opposite of best practice. Consider [Jakob's Law of Internet User Experience](https://www.nngroup.com/videos/jakobs-law-internet-ux/), which states, "Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know".
 Jakob Nielsen utterly nails it with this one. Your users spend the vast majority of their lives not using your product. They spend that time on other sites, other web apps and other mobile apps. The product with which they're least familiar is your product.
