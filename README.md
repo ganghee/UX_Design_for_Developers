@@ -1,6 +1,6 @@
 # What developers should learn UX
   [🌼 The Ultimate UX Design Glossary](#-the-ultimate-ux-design-glossary)\
-  [🌼 What Are UX Design Principles?](#-what-are-ux-design-principle)\
+  [🌼 What Are UX Design Principles?](#-what-are-ux-design-principles)\
   [🌼 What Are the Laws of UX?](#-what-are-the-laws-of-ux)
 
 
